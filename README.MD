@@ -98,14 +98,14 @@ Run the caption generation:
 
 To run pre-training with default settings:
 ```bash
-bash scripts/pretrain.sh
+bash scripts/run_pretrain.sh
 ```
 
 ### Training
 
 To train the model:
 ```bash
-bash scripts/train.sh  
+bash scripts/run_train.sh  
 ```
 for advanced options, please refer to the script.
 
