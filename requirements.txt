@@ -1,0 +1,31 @@
+# Basic dependencies
+numpy>=1.19.2
+pandas>=1.2.4
+scipy>=1.6.2
+scikit-learn>=0.24.2
+
+# Deep Learning
+torch>=1.9.0
+torch-geometric>=2.0.0
+torch-scatter>=2.0.8
+torch-sparse>=0.6.12
+torch-cluster>=1.6.0
+
+# Chemistry and Molecular Processing
+rdkit>=2022.03.1
+mordred>=1.2.0
+
+# Visualization and Notebooks
+matplotlib>=3.4.2
+seaborn>=0.11.1
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# NLP and Text Processing
+transformers>=4.5.1
+nltk>=3.6.2
+
+# Utilities
+tqdm>=4.61.0
+pyyaml>=5.4.1
+tensorboard>=2.5.0 

@@ -1,0 +1,20 @@
+{
+    "*CC(*)c1ccccc1": {
+        "polymer_information": {
+            "smiles_representation": "[*]CC([*])c1ccccc1",
+            "polymer_class": ["Polystyrenes", "Polyvinyls"],
+            "structure_name": "poly(1-phenylethylene)", 
+            "source_name": "polystyrene",
+            "other_name": ["poly(vinylbenzene)", "poly(styrene)"],
+            "abbreviation": "PS",
+            "chemical_formula": "C8H8",
+            "formula_weight": 104.15,
+            "synthesis_reaction": {
+                "monomer": "styrene",
+                "reaction_type": "addition", 
+                "reaction_mechanism": "radical",
+                "reaction_conditions": "70°C, N2 atmosphere"
+            }
+        }
+    }
+}
